@@ -3,6 +3,7 @@
 # API Blueprint
 ### API Design for Humans
 
+[![Build Status](https://travis-ci.org/apiaryio/api-blueprint.svg?branch=master)](https://travis-ci.org/apiaryio/api-blueprint)
 [![slack](https://apiblueprint-slack.herokuapp.com/badge.svg)](https://apiblueprint-slack.herokuapp.com/)
 
 A powerful high-level API design language for web APIs.

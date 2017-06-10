@@ -1,0 +1,33 @@
+{
+  "name": "api-blueprint",
+  "version": "1.0.9",
+  "description": "API Design for Humans",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiaryio/api-blueprint.git"
+  },
+  "keywords": [
+    "api-blueprint",
+    "api",
+    "apib",
+    "api-blueprint",
+    "documentation"
+  ],
+  "author": "Apiary.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiaryio/api-blueprint/issues"
+  },
+  "dependencies": {
+    "mdv": "^1.0.6",
+    "node-readfiles": "^0.2.0"
+  },
+  "homepage": "https://github.com/apiaryio/api-blueprint#readme"
+}
